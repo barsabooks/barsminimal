@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&family=VT323&display=swap');
+
+@font-face {
+      font-family: 'HyperFont';
+      src: url('./HyperFont.ttf') format('ttf') ;
+ 
+    }
+
+
+
+body {
+  background-color: blueviolet;
+  
+}
+
+
+
+.nvv {
+  background-color: blue;
+  font-family: 'Red Hat Mono', monospace;
+ 
+ }
+
+.mocho {
+  color: white;
+  font-family: 'VT323', monospace;
+  
+}
