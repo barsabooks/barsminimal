@@ -1,2 +1,0 @@
-# barsminimal
-Begin app
